@@ -1,0 +1,37 @@
+[
+    {
+        "image": "https://img.freepik.com/premium-psd/dj-night-party-event-banner-template_265396-53.jpg?w=740",
+        "title": "Song 1",
+        "unique_plays": 49,
+        "total_plays": 69,
+        "completion_rate": 40
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/vinyl-record-cover-design_1284-70516.jpg?w=826&t=st=1683143732~exp=1683144332~hmac=f8af0c236021ecb0a075f91ee33cc253276335796404576c8f91444ab6bb5ac2",
+        "title": "Song 2",
+        "unique_plays": 43,
+        "total_plays": 62,
+        "completion_rate": 91
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/musical-notes-frame-with-text-space_1017-32857.jpg?w=1380&t=st=1683143844~exp=1683144444~hmac=37cd74d9a21cf5f2de527117970a4e98b3fd9286e763d1bda9b893c22263e370",
+        "title": "Song 3",
+        "unique_plays": 30,
+        "total_plays": 88,
+        "completion_rate": 76
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/music-record-vinyl-with-audio-beats_1017-30116.jpg?w=740&t=st=1683143769~exp=1683144369~hmac=b30e32ff622a91c71cb649b0040eec4b73c9a4b2884ee65ffdfa00e7cfe57942",
+        "title": "Song 4",
+        "unique_plays": 56,
+        "total_plays": 78,
+        "completion_rate": 50
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/music-disc-vector_23-2147487256.jpg?w=740&t=st=1683143862~exp=1683144462~hmac=70537c9624103a103ef500cf0cdca27730af39eb35db1bd4b2a91a79765521ee",
+        "title": "Song 5",
+        "unique_plays": 63,
+        "total_plays": 100,
+        "completion_rate": 80
+    }
+]
